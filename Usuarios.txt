@@ -1,0 +1,23 @@
+Nome: Pedro Macedo
+
+Idade: 15 anos
+
+profissão: Estagiário 
+
+Nome: Maxuel
+
+Idade: 62 anos
+
+profissão: Analista 
+
+Nome: Bruno Agnelo
+
+Idade: 24
+
+profissão: Agiota
+
+Samuel Pineli
+
+Idade: 19 anos
+
+profissão: Estudante
